@@ -2,7 +2,11 @@
 *wordpress*.xml
 out
 
-
+# Editors
+*~
+*.sw[op]
+tags
+tags.*
 
 # https://github.com/github/gitignore/blob/master/Node.gitignore
 
@@ -79,3 +83,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Scratch dir
+scratch/
